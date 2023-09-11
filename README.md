@@ -1,7 +1,7 @@
 ## Hello World, I'm Bernardo Marquez 👋
 ### Full Stack Developer | Software Engineer
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e476lu1e48w9epfh64ftw7urju7aeqcp2cma1ope2j3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e476lu1e48w9epfh64ftw7urju7aeqcp2cma1ope2j3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
 
 
 I'm a full stack developer, currently pursuing a degree in Systems Engineering at <a href="https://www.ufmg.br/"> UFMG </a>, absolutely passionate about cutting-edge technologies 🌟 and challenging challenges! 💪
