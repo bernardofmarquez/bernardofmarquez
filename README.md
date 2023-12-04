@@ -6,9 +6,9 @@
 
 I'm a full stack developer, currently pursuing a degree in Systems Engineering at <a href="https://www.ufmg.br/"> UFMG </a>, absolutely passionate about cutting-edge technologies 🌟 and challenging challenges! 💪
 
-- 🎓 Studying Full Stack Web Development and Software Engineering at <a href="https://www.driven.com.br/">Driven Education</a>.
 - 🔭 I’m currently working at <a href="https://cpejr.com//">CPEjr</a> on a web electronic point system using graphql and react.
 - 🌱 I'm learning about Next.js, Docker, MySQL and AWS at the moment.
+- 🎓 Studied Full Stack Web Development and Software Engineering at <a href="https://www.driven.com.br/">Driven Education</a>.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: My favorite drink is coffe ☕ and I can spend hours just talking with someone I like 😄.
 
@@ -55,10 +55,10 @@ I'm a full stack developer, currently pursuing a degree in Systems Engineering a
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img height="172em" alt="Tais's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marquezintop&count_private=true&show_icons=true&theme=blue&bg_color"/>
+  <img height="172em" alt="Bernardos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marquezintop&count_private=true&show_icons=true&theme=blue&bg_color"/>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img height="172em" alt="Tais's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezintop&layout=compact&langs_count=10&theme=blue&bg_color"/>
+  <img height="172em" alt="Bernardos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezintop&count_private=true&layout=compact&langs_count=10&theme=blue&bg_color"/>
 </details>
