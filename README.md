@@ -6,9 +6,8 @@
 
 I'm a full stack developer, currently pursuing a degree in Systems Engineering at <a href="https://www.ufmg.br/"> UFMG </a>, absolutely passionate about cutting-edge technologies 🌟 and challenging challenges! 💪
 
-- 🔭 I’m currently working at <a href="https://www.levty.com/br">LEVTY</a> on a automatic burndown spreadshet using react and trello api.
-- 🌱 I'm learning about Devops at the moment.
-- 🎓 Studied Full Stack Web Development and Software Engineering at <a href="https://www.driven.com.br/">Driven Education</a>.
+- 🔭 I’m currently working at <a href="https://www.useaira.com/">Aira</a> on a medic research both front and backend.
+- 🌱 I'm learning about Devops and AWS at the moment.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: My favorite drink is coffe ☕ and I can spend hours just talking with someone I like 😄.
 
