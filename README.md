@@ -55,10 +55,10 @@ I'm a full stack developer, currently pursuing a degree in Systems Engineering a
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img height="172em" alt="Bernardos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marquezintop&count_private=true&show_icons=true&theme=blue&bg_color"/>
+  <img height="172em" alt="Bernardos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardofmarquez&count_private=true&show_icons=true&theme=blue&bg_color"/>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img height="172em" alt="Bernardos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezintop&count_private=true&layout=compact&langs_count=10&theme=blue&bg_color"/>
+  <img height="172em" alt="Bernardos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofmarquez&count_private=true&layout=compact&langs_count=10&theme=blue&bg_color"/>
 </details>
